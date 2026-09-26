@@ -1,0 +1,10 @@
+segment,model,mae,n
+decline,gradient_boosted,0.17736162160512095,98
+decline,ridge,0.168483728382986,98
+decline,naive_persistence,0.203045011897578,98
+stable,gradient_boosted,0.07858875370628018,97
+stable,ridge,0.1170529305677385,97
+stable,naive_persistence,0.01950046597859699,97
+breakout,gradient_boosted,0.10549951975739422,98
+breakout,ridge,0.09682917422291927,98
+breakout,naive_persistence,0.16068646007807735,98
